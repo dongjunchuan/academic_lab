@@ -1,41 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://dongjunchuan.github.io/academic_lab/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dongjunchuan.github.io/academic_lab/authors/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dongjunchuan.github.io/academic_lab/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dongjunchuan.github.io/academic_lab/author/nelson-bighetti/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dongjunchuan.github.io/academic_lab/post/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dongjunchuan.github.io/academic_lab/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dongjunchuan.github.io/academic_lab/publication/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dongjunchuan.github.io/academic_lab/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dongjunchuan.github.io/academic_lab/tags/</loc>
-  </url>
-  
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+	<sitemap>
+	   	<loc>https://dongjunchuan.github.io/academic_lab/en/sitemap.xml</loc>
+		
+	   	<lastmod>2020-03-05T00:00:00+00:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://dongjunchuan.github.io/academic_lab/zh/sitemap.xml</loc>
+		
+	</sitemap>
+	
+</sitemapindex>

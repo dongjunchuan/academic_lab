@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://dongjunchuan.github.io/academic_lab/zh/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dongjunchuan.github.io/academic_lab/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://dongjunchuan.github.io/academic_lab/zh/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dongjunchuan.github.io/academic_lab/zh/authors/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dongjunchuan.github.io/academic_lab/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://dongjunchuan.github.io/academic_lab/zh/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dongjunchuan.github.io/academic_lab/zh/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dongjunchuan.github.io/academic_lab/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://dongjunchuan.github.io/academic_lab/zh/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dongjunchuan.github.io/academic_lab/zh/author/nelson-bighetti/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dongjunchuan.github.io/academic_lab/author/nelson-bighetti/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://dongjunchuan.github.io/academic_lab/zh/author/nelson-bighetti/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dongjunchuan.github.io/academic_lab/zh/post/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dongjunchuan.github.io/academic_lab/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://dongjunchuan.github.io/academic_lab/zh/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dongjunchuan.github.io/academic_lab/zh/publication_types/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dongjunchuan.github.io/academic_lab/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://dongjunchuan.github.io/academic_lab/zh/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dongjunchuan.github.io/academic_lab/zh/publication/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dongjunchuan.github.io/academic_lab/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://dongjunchuan.github.io/academic_lab/zh/publication/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dongjunchuan.github.io/academic_lab/zh/talk/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dongjunchuan.github.io/academic_lab/talk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://dongjunchuan.github.io/academic_lab/zh/talk/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dongjunchuan.github.io/academic_lab/zh/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dongjunchuan.github.io/academic_lab/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://dongjunchuan.github.io/academic_lab/zh/tags/"
+                />
+  </url>
+  
+</urlset>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publication_types | Academic</title>
+    <link>https://dongjunchuan.github.io/academic_lab/zh/publication_types/</link>
+      <atom:link href="https://dongjunchuan.github.io/academic_lab/zh/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publication_types</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>© 2020 GIPS</copyright>
+    <image>
+      <url>https://dongjunchuan.github.io/academic_lab/images/icon_huaee7ebc1bd15b2dc79b23fb3cbf2be3f_40003_512x512_fill_lanczos_center_2.png</url>
+      <title>Publication_types</title>
+      <link>https://dongjunchuan.github.io/academic_lab/zh/publication_types/</link>
+    </image>
+    
+  </channel>
+</rss>
